@@ -1,0 +1,14 @@
+/* h1{
+    color:  red;
+} */
+
+
+
+body{
+    padding: 10px;
+}
+
+.col{
+    background-color: cadetblue;
+    margin: 2px;
+}
